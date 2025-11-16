@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# TTS temporary files
+processed/
+RealTime_zeroshot_TTS_ko/output/
+checkpoints_v2_0417.zip
+checkpoints_v2/
